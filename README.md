@@ -1,5 +1,5 @@
 # Sana Commerce Software Development Courses `24
-![image](https://github.com/ipz234vas/Readme/assets/147329343/37d14a32-7016-4bc1-ac54-daebd77f43e9)
+![image](https://upload.wikimedia.org/wikipedia/commons/0/08/Sana_Commerce_Logo.png)
 ## Практична робота №1
 ### Основні завдання
 У **практичній роботі №1** було:
