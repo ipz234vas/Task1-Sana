@@ -1,4 +1,7 @@
+.gitignore
 files.txt
 info.txt
 name.txt
+README.md
+temporary.txt
 text.txt
